@@ -5,6 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: PirateFab root
     url: https://piratefab.com
+    __dangerous__body_down_if_text_missing: '410-835-8301'
   - name: PirateFab www
     url: https://www.piratefab.com
 
@@ -12,7 +13,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: piratefab.github.io
+  # cname: piratefab.github.io
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
