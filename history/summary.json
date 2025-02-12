@@ -4,18 +4,20 @@
     "url": "https://piratefab.com",
     "icon": "https://icons.duckduckgo.com/ip3/piratefab.com.ico",
     "slug": "pirate-fab-root",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 180,
-    "timeWeek": 184,
+    "timeDay": 182,
+    "timeWeek": 186,
     "timeMonth": 179,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-12": 0
+    }
   },
   {
     "name": "PirateFab www",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 165,
-    "timeWeek": 166,
-    "timeMonth": 169,
-    "timeYear": 166,
+    "time": 167,
+    "timeDay": 844,
+    "timeWeek": 265,
+    "timeMonth": 191,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   }
 ]
