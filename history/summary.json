@@ -6,18 +6,16 @@
     "slug": "pirate-fab-root",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 182,
-    "timeWeek": 186,
-    "timeMonth": 179,
+    "timeDay": 195,
+    "timeWeek": 187,
+    "timeMonth": 180,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2025-02-12": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PirateFab www",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 844,
-    "timeWeek": 265,
-    "timeMonth": 191,
-    "timeYear": 167,
+    "timeDay": 861,
+    "timeWeek": 264,
+    "timeMonth": 192,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   }
 ]
