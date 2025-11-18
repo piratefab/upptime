@@ -4,35 +4,39 @@
     "url": "https://piratefab.com",
     "icon": "https://icons.duckduckgo.com/ip3/piratefab.com.ico",
     "slug": "pirate-fab-root",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 206,
-    "timeWeek": 248,
+    "timeDay": 203,
+    "timeWeek": 249,
     "timeMonth": 216,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "PirateFab www",
     "url": "https://www.piratefab.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.piratefab.com.ico",
     "slug": "pirate-fab-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 198,
-    "timeWeek": 198,
-    "timeMonth": 200,
+    "time": 194,
+    "timeDay": 184,
+    "timeWeek": 196,
+    "timeMonth": 199,
     "timeYear": 195,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
